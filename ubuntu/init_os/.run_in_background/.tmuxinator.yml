@@ -1,0 +1,7 @@
+name: init
+root: ~/
+windows:
+  - cross-wall:
+      panes:
+        - sslocal:
+            - sslocal -c ~/.shadowSockes.json
